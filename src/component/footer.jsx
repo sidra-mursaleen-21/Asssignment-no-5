@@ -11,9 +11,9 @@ function Footer() {
             <Logo image={logo_image}/>
             <p>Follow us:</p>
             <div className="icon">
-              <i class="fa-brands fa-facebook"></i>
-              <i class="fa-brands fa-twitter"></i>
-              <i class="fa-brands fa-pinterest-p"></i>
+              <i className="fa-brands fa-facebook"></i>
+              <i className="fa-brands fa-twitter"></i>
+              <i className="fa-brands fa-pinterest-p"></i>
             </div>
           </div>
           <Link_list
